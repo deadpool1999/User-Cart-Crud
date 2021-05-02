@@ -3,8 +3,8 @@
 ## Installation
 
 ```
-git clone <name>
-cd <repo_name>
+git clone https://github.com/deadpool1999/User-Cart-Crud.git
+cd User-Cart-Crud
 npm install
 npm start
 ```
